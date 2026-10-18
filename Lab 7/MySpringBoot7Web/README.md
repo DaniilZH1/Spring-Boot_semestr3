@@ -1,7 +1,5 @@
 # Spring Boot Lab 7
 
-Spring MVC and Thymeleaf application for managing students and study groups.
-
 ## Run
 
 Run `MySpringBoot2DbaseApplication` from IntelliJ or execute `mvnw.cmd spring-boot:run`.
