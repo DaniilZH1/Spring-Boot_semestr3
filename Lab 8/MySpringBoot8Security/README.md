@@ -4,9 +4,7 @@
 
 ## Запуск
 
-Запустите `MySpringBoot2DbaseApplication` из IntelliJ IDEA или выполните `mvnw.cmd spring-boot:run`.
-Приложение работает на порту `8083` и хранит H2 базу отдельно от предыдущих лабораторных:
-`E:/Lab_sem3/testdb/students-lab8`.
+Запустите `MySpringBoot2DbaseApplication` из IntelliJ IDEA
 
 ## Работа с приложением
 
